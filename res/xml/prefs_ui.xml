@@ -138,7 +138,6 @@
             android:summary="@string/alt_resolver_summary"
             android:defaultValue="false" />
 
-
         <Preference
             android:key="scroll_setup"
             android:title="@string/scroll_title"
